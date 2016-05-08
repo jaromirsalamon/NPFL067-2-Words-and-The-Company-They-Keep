@@ -9,10 +9,10 @@ Source data:
 - TEXTEN1.ptg - english list of words and their tags one per line with charset=ascii
 
 Implementation is following:
-main-best-friends.py - implementation of part 1. Best Friends
-main-word-classes.py - implementation of part 2. Word Classes and 3. Tag Classes
-bf.py - library with methods supporting first part implementation of best friends
-wc.py - library with methods supporting word and tag classes implementation
+- main-best-friends.py - implementation of part 1. Best Friends
+- main-word-classes.py - implementation of part 2. Word Classes and 3. Tag Classes
+- bf.py - library with methods supporting first part implementation of best friends
+- wc.py - library with methods supporting word and tag classes implementation
 
 Output:
 - jsalamon.assign2.docx - 13 pages lab work report
